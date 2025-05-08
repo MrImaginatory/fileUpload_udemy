@@ -96,10 +96,10 @@ A simple Express.js backend for uploading product images, storing product data i
 
 ## 📝 License
 
-MIT © Your Name
+MIT © MrImaginatory
 
 ---
 
 ## 🙋‍♂️ Author
 
-Made with ❤️ by Your Name
+Made with ❤️ by Your MrImaginatory
