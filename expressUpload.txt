@@ -1,0 +1,16 @@
+model:
+    -Product
+        >name
+        >price
+        >image
+
+controller:
+    -createProduct
+    -fetchProduct
+    -getAllProduct
+
+packages:
+    -http-status-code
+    -multer
+    -express-fileupload
+    -cloudinary
